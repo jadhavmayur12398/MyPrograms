@@ -1,0 +1,5 @@
+package com.program.jdbc1.insert;
+
+public class JdbcInsert {
+
+}

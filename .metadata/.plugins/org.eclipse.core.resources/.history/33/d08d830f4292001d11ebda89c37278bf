@@ -1,0 +1,25 @@
+package com.program.jdbc4.dynamicquery;
+
+import java.io.FileReader;
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.util.Properties;
+
+public class JdbcInsert {
+	private static Connection connection;
+	private static PreparedStatement preparedStatement;
+	private static int i;
+	private static Properties properties;
+	private static FileReader fileReader;
+	private static String filPath="F:\\MyPrograms\\jdbc4\\resources\\db_info.properties";
+	private static String query;
+	
+	public static void main(String[] args) {
+		try {
+			
+		} finally {
+			// TODO: handle finally clause
+		}
+	}
+
+}

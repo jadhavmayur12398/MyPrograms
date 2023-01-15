@@ -1,0 +1,14 @@
+package com.program.jdbc3.thirdwayofconnection;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.Statement;
+import java.util.Properties;
+
+public class JdbcSelect {
+	private static Connection connection;
+	private static Statement statement;
+	private static ResultSet resultSet;
+	private static Properties properties=
+
+}
